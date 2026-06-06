@@ -4,8 +4,8 @@ public class Main {
         Scanner sc=new Scanner(System.in);
         int a=sc.nextInt();
         int b=sc.nextInt();
-        int addition=a+b;
-        System.out.println("Product of the given Numbers: "+addition);
+        int mul=a*b;
+        System.out.println("Product of the given Numbers: "+mul);
             
     }
 }
