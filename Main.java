@@ -6,8 +6,8 @@ public class Main {
         int a=sc.nextInt();
         System.out.print("Enter Second Number: ");
         int b=sc.nextInt();
-        int addition=a+b;
-        System.out.println("The Addition of Two Numbers is: "+addition);
+        int multiplication=a*b;
+        System.out.println("The Addition of Two Numbers is: "+multiplication);
             
     }
 }
